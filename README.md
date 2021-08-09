@@ -14,12 +14,12 @@ clone the project to your local machine with `git clone`
 
 ### Dependencies
 
-Using virtual environment.
-`python -m venv <your_venv_name>`
-`<your_venv_name>/Scripts/activate` (Windows)
+- Using virtual environment.
+- `python -m venv <your_venv_name>`
+- `<your_venv_name>/Scripts/activate` (Windows)
 
-Install dependencies using PIP with requirments.txt
-`pip install -r requirements.txt`
+- Install dependencies using PIP with requirments.txt
+- `pip install -r requirements.txt`
 
 ### Running
 
