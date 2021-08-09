@@ -14,7 +14,7 @@ clone the project to your local machine with `git clone`
 
 ### Dependencies
 
-Using virtual environment
+Using virtual environment.
 `python -m venv <your_venv_name>`
 `<your_venv_name>/Scripts/activate` (Windows)
 
@@ -35,13 +35,13 @@ It will resize image and draw text on the image.
 
 #### QuoteEngine
 
-IngestorInterface - Interface for provide necessary method and abstract method
-CSVIngestor - Class for parse CSV file
-DocxIngestor - Class for parse Docx file
-PDFIngestor - Class for parse PDF file
-TXTIngestor - Class for parse TXT file
-QuoteModel - Class for represent data model for store quote
-Ingestor - Encapsualte all ingestor class
+IngestorInterface - Interface for provide necessary method and abstract method.
+CSVIngestor - Class for parse CSV file.
+DocxIngestor - Class for parse Docx file.
+PDFIngestor - Class for parse PDF file.
+TXTIngestor - Class for parse TXT file.
+QuoteModel - Class for represent data model for store quote.
+Ingestor - Encapsualte all ingestor class.
 
 #### app.py
 
